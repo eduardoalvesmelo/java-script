@@ -1,0 +1,13 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tabela {
+    width: 600px;
+    background-color: #eee;
+}
+.tabela tr:nth-child(even) {
+    background-color: #fff;    
+}
+div {
+    border-color: black;
+}

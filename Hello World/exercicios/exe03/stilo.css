@@ -1,0 +1,13 @@
+/* Estilo para o título */
+.titulo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilo para a mensagem */
+  .mensagem {
+    font-size: 16px;
+    color: #666;
+  }
