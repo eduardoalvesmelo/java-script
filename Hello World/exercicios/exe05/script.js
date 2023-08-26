@@ -39,13 +39,4 @@
         const ttl = Number(vlr1) + Number(vlr2);
         resp.textContent = "A soma entre "+ vlr1 +" e " + vlr2 + " é: "+ttl + ".";
     });
-
-    
-    painel.appendChild(br);
-    
-    painel.appendChild(br);
-    
-    
-    
-
 })();
